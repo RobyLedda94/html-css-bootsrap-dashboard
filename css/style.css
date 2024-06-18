@@ -3,3 +3,21 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+
+.container-fluid{
+    background-color: red;
+}
+
+
+.nav-content{
+    height: 70px;
+    border: 1px solid black;
+    
+}
+
+.side-bar{
+    width: 70px;
+    height: 100vh;
+    background-color: black;
+}
