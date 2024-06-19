@@ -30,7 +30,7 @@
 .left-section{
     height: calc(100vh - 100px);
     width: calc(100vw - 100px);
-    /* background-color: green; */
+    
 }
 
 .top-left{
@@ -45,11 +45,6 @@
 
 
 
-/* .bottom-left{
-    height: calc(100vh - 350px);
-    width: 100%;
-    background-color: orange;
-} */
 
 
 
