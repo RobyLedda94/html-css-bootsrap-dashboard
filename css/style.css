@@ -14,18 +14,14 @@
     background-color: #ffffff;
 }
 
-.content-header{
-    /* height: 100px; */
-    background-color: red;
-    border: 1px solid black;
-}
+
 
 
 .side-bar{
     height: calc(100vh - 100px);
     width: 100px;
     background-image: url(../img/sidebar-bg.png);
-    background-color: black;
+    background-color: #051e34;
 }
 
 
@@ -39,12 +35,11 @@
 
 .top-left{
     width: 100%;
-    background-color: aqua;
+    background-color: #1b72e8;
 }
 
 .content-main-top-left{
     height: 100px;
-    background-color: red;
     border: 1px solid black;
     font-size: 20px;
     color: white;
@@ -66,7 +61,14 @@
 
 
 .logo-mobile{
-    width: 65px;
+    width: 50px;
+}
+
+.options{
+    font-size: 11px;
+    padding: 4px;
+    background-color:#00008b63;
+    border-radius: 12px;
 }
 
 
