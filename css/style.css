@@ -30,7 +30,7 @@
 .left-section{
     height: calc(100vh - 100px);
     width: calc(100vw - 100px);
-    background-color: green;
+    /* background-color: green; */
 }
 
 .top-left{
@@ -45,7 +45,7 @@
 
 
 .content-main-bottom-left{
-    height: 300px;
+    
     background-color: red;
     border: 1px solid black;
 }
