@@ -11,7 +11,7 @@
 /* LAYOUT */
 
 .top-section{
-    background-color: blue;
+    background-color: #ffffff;
 }
 
 .content-header{
@@ -24,7 +24,8 @@
 .side-bar{
     height: calc(100vh - 100px);
     width: 100px;
-    background-color: yellow;
+    background-image: url(../img/sidebar-bg.png);
+    background-color: black;
 }
 
 
@@ -67,6 +68,13 @@
 .logo-mobile{
     width: 65px;
 }
+
+
+
+
+
+
+
 
 
 
