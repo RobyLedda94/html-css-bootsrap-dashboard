@@ -37,7 +37,7 @@
 }
 
 .bottom-left{
-    height: calc(100vh - 250px);
+    height: calc(100vh - 350px);
     width: 100%;
     background-color: orange;
 }
