@@ -15,7 +15,7 @@
 }
 
 .content-header{
-    height: 100px;
+    /* height: 100px; */
     background-color: red;
     border: 1px solid black;
 }
