@@ -72,6 +72,25 @@
 }
 
 
+.labels{
+    padding: 4px;
+    font-size: 10px;
+    border-radius: 10px;
+}
+
+.bg-green{
+    background-color: green;
+}
+
+.bg-yellow{
+    background-color: rgb(253, 201, 30);
+}
+
+.bg-red{
+    background-color: red;
+}
+
+
 
 
 
