@@ -19,7 +19,7 @@
 
 .side-bar{
     height: calc(100vh - 100px);
-    width: 100px;
+    width: 75px;
     background-image: url(../img/sidebar-bg.png);
     background-color: #051e34;
 }
@@ -29,7 +29,7 @@
 
 .left-section{
     height: calc(100vh - 100px);
-    width: calc(100vw - 100px);
+    width: calc(100vw - 75px);
     
 }
 
@@ -67,6 +67,10 @@
 }
 
 
+.fa-solid.fa-bell{
+    color:orange;
+}
+
 
 
 
@@ -81,10 +85,10 @@
 
 @media screen  and (min-width : 578px) {
     .side-bar{
-        width: 250px;
+        width: 150px;
     }
 
     .left-section{
-        width: calc(100vw - 250px);
+        width: calc(100vw - 150px);
     }
 }
