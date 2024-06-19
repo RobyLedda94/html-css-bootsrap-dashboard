@@ -30,6 +30,18 @@
     background-color: green;
 }
 
+.top-left{
+    height: 250px;
+    width: 100%;
+    background-color: aqua;
+}
+
+.bottom-left{
+    height: calc(100vh - 250px);
+    width: 100%;
+    background-color: orange;
+}
+
 
 
 
